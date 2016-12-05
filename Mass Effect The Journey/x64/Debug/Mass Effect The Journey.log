@@ -1,0 +1,4 @@
+﻿  Menu.cpp
+c:\users\tucan\documents\visual studio 2015\projects\sfml&c++ projects\mass effect the journey\mass effect the journey\menu.cpp(49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Mass Effect The Journey.vcxproj -> C:\Users\TuCan\Documents\Visual Studio 2015\Projects\SFML&C++ projects\Mass Effect The Journey\x64\Debug\Mass Effect The Journey.exe
+  Mass Effect The Journey.vcxproj -> C:\Users\TuCan\Documents\Visual Studio 2015\Projects\SFML&C++ projects\Mass Effect The Journey\x64\Debug\Mass Effect The Journey.pdb (Full PDB)
