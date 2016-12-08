@@ -1,0 +1,9 @@
+﻿  Menu.cpp
+j:\game projects\mass-effect-the-journey-menu-control\mass effect the journey\menu.cpp(56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Background.cpp
+  Generating Code...
+  Compiling...
+  Main.cpp
+  Generating Code...
+  Mass Effect The Journey.vcxproj -> J:\Game projects\Mass-Effect-The-Journey-menu-control\x64\Debug\Mass Effect The Journey.exe
+  Mass Effect The Journey.vcxproj -> J:\Game projects\Mass-Effect-The-Journey-menu-control\x64\Debug\Mass Effect The Journey.pdb (Full PDB)
